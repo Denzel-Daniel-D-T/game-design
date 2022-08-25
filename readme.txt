@@ -1,12 +1,14 @@
 Theme:		Fantasy
-Genre:		Open World, Action, Adventure, Hack n Slash
-Target User:	Teenager
-Character:		
-	______: A master swordswoman and heir to the _______ Clan, she is the royal army's first line of defense in infiltration missions. (Main Character)
+Genre:		Open World, Action, Adventure, Hack and Slash
+Target User:	Teenager, Story/Worldbuilding/Lore enthusiast
+Character:
+	______: A master swordswoman and well versed in the art of Tenebrae, she is heir to the ________ Clan and the royal army's first line of defense in infiltration missions. (Main Character)
 
-	_______: ______'s sister, she handles logistics and other background tasks whenever needed. In combat, her skill in balancing Ordo and Lux makes her unparalleled in battle.
+	_______: ______'s sister, she handles logistics and other background tasks whenever required. Seemingly innocent, her skill in balancing Ordo and Lux makes her a deadly adversary to those foolish enough to threaten her planet's prosperity.
 
-	_________: The last heir of a mysterious species' clan, he has sworn allegiance to Planet _______ after an even more mysterious being annihilated most of his clan.
+	_________: The last heir of a mysterious species' clan. After losing his home planet to an even more mysterious malignant entity, he has wandered the galaxy, looking for a place to call home again, and has settled in Planet _______ after a long journey.
+	
+	___________: A relatively young descendant of a certain mysterious species, seemingly serving ____ ____ as one of his generals. Has a strong sense of duty and justice. Maybe if you can convince him to see ____ ____'s atrocities, you might be able to get him to help Planet _______...
 
 Action:
 	- Interact with NPCs
@@ -48,12 +50,16 @@ Description:
 
 	Once you meet other characters, you can start causing elemental reactions to happen, which can have various effects depending on which element was applied first.
 
-Materials are the backbone of most of the game’s systems. They are key components in the various features like crafting, forging, upgrading equipment, and many more.
+	Materials are the backbone of most of the game’s systems. They are key components in the various features like crafting, forging, upgrading equipment, and many more.
 
-Materials can come from many sources, including gathering them from the wild, buying them from shops, crafting them from other raw materials, or even dropped by the various enemies that inhabit the planet, be it ____ ____’s underlings or the natural fauna.
+	Materials can come from many sources, including gathering them from the wild, buying them from shops, crafting them from other raw materials, or even dropped by the various enemies that inhabit the planet, be it ____ ____’s underlings or the natural fauna.
 
-Breakable objects are scattered throughout the planet. Each breakable object may require certain elemental attacks to break them. When broken, they can drop various materials, and with the right elemental combinations, some objects may even drop materials found nowhere else.
+	Crafting allows the player to synthesize stronger materials from lesser ones, or even create nifty gadgets that help the player explore the planet or fight enemies.
 
-Upgrading equipment requires uncommon materials dropped by enemies and breaking objects with certain elemental combinations. Upgrading equipment grants them new abilities and effects.
+	Forging allows the player to create their own weapons, with various advantages unique to crafted weapons, including higher base stats, lighter weight, and even unique effects.
 
-Upgrading the character’s skills and talents require rare materials dropped by tough enemies found throughout the story, and very rare materials only dropped by minerals originating from the hardest to reach areas of the planet.
+	Breakable objects are scattered throughout the planet. Each breakable object may require certain elemental attacks to break them. When broken, they can drop various materials, and with the right elemental combinations, some objects may even drop materials found nowhere else.
+
+	Upgrading equipment requires uncommon materials dropped by enemies and breaking objects with certain elemental combinations. Upgrading equipment grants them new abilities and effects.
+
+	Upgrading the character’s skills and talents require rare materials dropped by tough enemies found throughout the story, and very rare materials only dropped by minerals originating from the hardest to reach areas of the planet.
