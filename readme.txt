@@ -58,6 +58,18 @@ Story Synopsis:
 	The peaceful Planet _______ has fallen under an invasion by ____ ____, where he seeks to extract the planet’s resources for reasons unknown. As the heir of the prestigious ________ Clan, ______ ____ ________, you shall help the planet escape from the brink of destruction.
 
 	With a diverse elemental system consisting of 12 + 1 elements, take back Planet _______’s prosperity from ____ ____’s avarice grip by mastering the elemental reactions to defeat his henchmen, and also help out your fellow ________ on their way to recovery from the invasion.
+	
+Chapter Details:
+	Chapter 1 - Emergency:
+		______ receives an order from her mother to support the _________ Stronghold. After going through a shortcut from the Royal Castle, ______ finds out that a major portion of the stronghold was breached, seeing that many of the Minor Arcana Mages of _______ were killed during a recent skirmish. ______ then proceeds to deal with the nearby ____ ____ soldiers.
+		
+		After a little while, ______ finds herself surrounded. Just before she gets fully overwhelmed, an unknown person suddenly appeared and helped her out. Before ______ could call out to the person, they've already left the scene towards another part of the stronghold. Seeing as the surviving Minor Arcana Mages needed help, ______ decided to help them repair segments of the stronghold.
+		
+		Partway through her repairs, ______'s squad was attacked by ____ ____ archers using dangerously volatile elemental reactions. After cautioning the Minor Arcana Mages to stay alert, ______ dashes out and under the archer's archer towers. Midway of dealing with the towers, the unknown person approached her and offered their help to ______. ______ agreed and proceeds to work together with the person to take down the towers. ______ deals with their makeshift generators, while the person deals with the archers directly.
+		
+		After destroying the towers, ______ receives a report from her mother that the ________ Canal is under attack as well. With no other personnel to spare, she has decided to send ______'s sister, _______, into the field.
+		
+		
 
 Description:
 	As the player, you can control various characters and use their skills to aid in protecting the planet. Each character usually masters one element out of the twelve existing elements, however, exceptions exist. Each character can infuse such elements into their weapon of choice, fashion their own weapon made out of pure elemental energy, or even conjure the pure elemental energy into waves of energy to directly attack their targets.
