@@ -1,6 +1,6 @@
-Tema:			Fantasy
+Theme:		Fantasy
 Genre:		Open World, Action, Adventure, Hack n Slash
-Target User:		Teenager
+Target User:	Teenager
 Character:		
 	______: A master swordswoman and heir to the _______ Clan, she is the royal army's first line of defense in infiltration missions. (Main Character)
 
