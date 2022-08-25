@@ -17,6 +17,13 @@ Character:
 	
 	___________: A relatively young descendant of a certain mysterious species, seemingly serving ____ ____ as one of his generals. Has a strong sense of duty and justice. Maybe if you can convince him to see ____ ____'s atrocities, you might be able to get him to help Planet _______...
 
+Key Points of Interest:
+	- Extensive world with many backgrounds, where each structure has their own history written out.
+		-eg. A side quest revolves around the history of a certain location, meanwhile the history of a long lost civilization might be contained within a single item.
+		
+	- Extensive elemental combat system, where each attack can have elements infused into them.
+		- Environmental objects can be destroyed with certain elements, and might drop unique items depending on the elements used.
+
 Action:
 	- Interact with NPCs
 	- Pick up items
