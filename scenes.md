@@ -4,7 +4,7 @@
 
 ### Plot:
 
-lorem ipsum dolor sit amet
+Dienia receives a report from her mother, Minalia, that the Pyreladin Stronghold was attacked by Aeon Flux. Dienia was sent out to handle the situation.
 
 **Where:** Mystosa Royal Castle
 
@@ -56,11 +56,28 @@ lorem aaaaaaaaaaaaaaaaaaaaaaaa
 
 lorem bbbbbbbbbbbbbbbb
 
-**Where:** Arcantia Canal
+**Where:** Aeon Flux Temporary Stronghold
 
 **When:** 11:00, 24 February 5000 BC
 
 ### Who:
 
-- Aselien Lumia Myssilia
-- 
+- Dienia Elei Myssilia
+- "Sword Princess"
+- Aeon Flux Soldiers
+
+## Scene 5
+
+### Plot:
+
+lorem cccccccccccccc
+
+**Where:** Aeon Flux Temporary Stronghold
+
+**When:** 11:00, 24 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- "Sword Princess"
+- Aeon Flux Soldiers
