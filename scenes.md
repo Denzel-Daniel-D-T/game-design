@@ -126,7 +126,7 @@ After a massive wave of Aeon Flux soldiers appeared, suddenly, Mystosa's Royal A
 
 At the Royal Castle, Dienia and Aselien reports to the Royal Strategist and heir to the throne, Isenina Panonine Mystenia. They learn that Western Mystosa is currently experiencing a crisis, so they head there and lend their support.
 
-**Where:** Mystosa Royal Castle & Midwest Mystosan Plains
+**Where:** Mystosa Royal Castle
 
 **When:** 14:45, 24 February 5000 BC
 
@@ -141,16 +141,49 @@ At the Royal Castle, Dienia and Aselien reports to the Royal Strategist and heir
 
 ### Plot:
 
-After reaching Western Mystosa, Dienia and Aselien immediately met up with Isenina's sister, Peridenia Astraes Mystenia. They were immediately assigned tasks to lessen the burden of the western army.
+Dienia and Aselien marches towards Western Mystosa through the midwestern plains, mowing down Aeon Flux soldiers en route.
 
-**Where:** Mystosa Royal Castle & Midwest Mystosan Plains
+**Where:** Midwest Mystosan Plains
 
-**When:** 19:00, 24 February 5000 BC
+**When:** 15:45, 24 February 5000 BC
 
 ### Who:
 
 - Dienia Elei Myssilia
 - Aselien Lumia Myssilia
-- Elysia
+- Aeon Flux Soldiers
+
+## Scene 3
+
+### Plot:
+
+After reaching Western Mystosa, Dienia and Aselien immediately met up with Isenina's sister, Peridenia Astraes Mystenia. They were immediately assigned tasks to lessen the burden of the western army.
+
+**Where:** Western Mystosan Army Basecamp
+
+**When:** 19:45, 24 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
 - Peridenia Astraes Mystenia
+- Western Army Soldiers
+- Aeon Flux Soldiers
+
+## Scene 4
+
+### Plot:
+
+Dienia investigates the cause of the supply disruption, while Aselien follows the rescue team on finding the missing western army soldiers north of the base.
+
+**Where:** Western Mystosan Army Basecamp
+
+**When:** 19:45, 24 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Western Army Officer
+- Western Army Soldiers
 - Aeon Flux Soldiers
