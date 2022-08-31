@@ -169,7 +169,6 @@ After reaching Western Mystosa, Dienia and Aselien immediately met up with Iseni
 - Aselien Lumia Myssilia
 - Peridenia Astraes Mystenia
 - Western Army Soldiers
-- Aeon Flux Soldiers
 
 ## Scene 4
 
@@ -177,9 +176,9 @@ After reaching Western Mystosa, Dienia and Aselien immediately met up with Iseni
 
 Dienia investigates the cause of the supply disruption, while Aselien follows the rescue team on finding the missing western army soldiers north of the base.
 
-**Where:** Western Mystosan Army Basecamp
+**Where:** Western Mystosan Army Basecamp & Midwest Mystosan Plains
 
-**When:** 19:45, 24 February 5000 BC
+**When:** 20:15, 24 February 5000 BC
 
 ### Who:
 
@@ -187,3 +186,68 @@ Dienia investigates the cause of the supply disruption, while Aselien follows th
 - Western Army Officer
 - Western Army Soldiers
 - Aeon Flux Soldiers
+
+## Scene 5
+
+### Plot:
+
+Dienia returns to the basecamp to report the situation, while Aselien finished rescuing known missing soldiers from the northern battlefield. When they returned, a familiar face appears, along with an unfamiliar face.
+
+**Where:** Western Mystosan Army Basecamp & Midwest Mystosan Plains
+
+**When:** 21:00, 24 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Elysia Rhivenyere Kazimir
+- Celia Vasiris Kazimir (Elysia's sister)
+- Western Army Soldiers
+
+## Scene 6
+
+### Plot:
+
+Dienia and Aselien returns to the capital with Elysia and Celia, talking about Mystosa's various clans along the way.
+
+**Where:** Midwest Mystosan Plains
+
+**When:** 21:30, 24 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Elysia Rhivenyere Kazimir
+- Celia Vasiris Kazimir
+- Aeon Flux Soldiers
+
+## Scene 7
+
+### Plot:
+
+The group arrives at the Royal Castle, and The Queen has invited both Elysia and Celia into the castle for a grand dinner.
+
+**Many characters are introduced here.**
+
+**Where:** Mystosa Royal Castle
+
+**When:** 00:45, 25 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Elysia Rhivenyere Kazimir
+- Celia Vasiris Kazimir
+- Minexia Sclaire Mystenia
+- Yumeiron Osirin Mystenia
+- Minalia Hinei Myssilia
+- Pavionus an Ministria
+- Isenina Panonine Mystenia
+- A-1
+- A-2
+- A-3
+- A-4
+- A-5
