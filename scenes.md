@@ -231,6 +231,8 @@ The group arrives at the Royal Castle, and The Queen has invited both Elysia and
 
 **Many characters are introduced here.**
 
+*A-1 to A-5 are codenames, to hide their true identity*
+
 **Where:** Mystosa Royal Castle
 
 **When:** 00:45, 25 February 5000 BC
@@ -251,3 +253,99 @@ The group arrives at the Royal Castle, and The Queen has invited both Elysia and
 - A-3
 - A-4
 - A-5
+
+# Chapter 3
+
+## Scene 1
+
+### Plot:
+
+After resting for the night, Dienia was suddenly called early in the morning by the Queen. Originally for discussing a certain topic related to the Eight Clans, their discussion was cut short by an emergency in Southern Mystosa.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 08:15, 25 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Minexia Sclaire Mystenia
+- Elysia Rhivenyere Kazimir
+
+## Scene 2
+
+### Plot:
+
+The group of three arrives in Southern Mystosa to provide backup for the Royal Army.
+
+**Where:** Southern Mystosa
+
+**When:** 11:45, 25 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Elysia Rhivenyere Kazimir
+- Aeon Flux Soldiers
+- A-1
+- A-2
+- Myrica Animus Crocielle
+
+## Scene 3
+
+### Plot:
+
+After dealing with some Aeon Flux troops with the help of Myrica and Elysia, Dienia and Aselien continued further into the south. After they reached a certain location, however, they met a mysterious person with unrivaled strength and agility.
+
+**Where:** Southern Mystosa
+
+**When:** 12:45, 25 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Aeon Flux Soldiers
+- *Dexis Trionis*
+
+## Scene 4
+
+### Plot:
+
+He called himself "Dexis Trionis". Not wanting to cause unnecessary deaths of their comrades, Dienia and Aselien agreed to his deals and left his squad's operations alone and returned to the Royal Castle.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 14:45, 25 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Minexia Sclaire Mystenia
+
+## Scene 5
+
+### Plot:
+
+After resting for 3 days, Dienia and Aselien looked around the Myssilia Clan's Dormitory to learn more about the Aetereons. Not long after that, a warning was issued to the entire capital.
+
+**This chapter reveals A-5's true name**
+
+**Where:** Mystosa Royal Castle
+
+**When:** 09:15, 28 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Mystosa Royal Guard
+- A-3
+- Miyuteria Lemien Mystenia (A-5)
+- Pavionus an Ministria
+- Myrica Animus Crocielle
+- A-1
+- Sollus Neoran Dystrenix
