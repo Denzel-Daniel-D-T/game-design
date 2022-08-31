@@ -349,3 +349,97 @@ After resting for 3 days, Dienia and Aselien looked around the Myssilia Clan's D
 - Myrica Animus Crocielle
 - A-1
 - Sollus Neoran Dystrenix
+
+# Chapter 4
+
+## Scene 1
+
+### Plot:
+
+After a brutal battle, Dienia and Aselien returned to the castle. They have gained valuable information that might turn the tide of the battle. Meanwhile, Queen Minexia has summoned everyone from The Eight Clans and all Major Arcana Mages to attend a ceremony.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 15:30, 28 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Minexia Sclaire Mystenia
+- Minalia Hinei Myssilia
+- Elysia Rhivenyere Kazimir
+- Myrica Animus Crocielle
+- Tixlar Saxen Aenyxia
+- Sollus Neoran Dystrenix
+- Celia Vasiris Kazimir
+- Hymailen an Astrelia
+
+## Scene 2
+
+### Plot:
+
+Dienia asked Queen Minexia about Dexis Trionis and her findings from the recent attack.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 16:00, 28 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Minexia Sclaire Mystenia
+- Aselien Lumia Myssilia
+
+## Scene 3
+
+### Plot:
+
+Dienia and Aselien returned to Southern Mystosa to find Dexis Trionis again, as they have agreed upon whenever they needed to find him again.
+
+**Where:** Southern Mystosa
+
+**When:** 19:00, 28 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Dexis Trionis
+
+## Scene 4
+
+### Plot:
+
+Dienia and Aselien swiftly returns to the Royal Castle to report to Queen Minexia about the situation.
+
+**Where:** Southern Mystosa
+
+**When:** 22:00, 28 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Minexia Sclaire Mystenia
+- Dexis Trionis
+
+## Scene 5
+
+### Plot:
+
+After a good night's rest, Dienia and Aselien headed for the Arcantia Canal to meet up with Dexis Trionis.
+
+**It is revealed that Dexis Trionis is not his real name.**
+
+**Where:** Southern Mystosa
+
+**When:** 07:30, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Aeon Flux Soldiers
+- Pavionus an Ministria
+- Dexis Trionis
