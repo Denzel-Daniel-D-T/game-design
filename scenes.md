@@ -20,7 +20,7 @@ Dienia receives a report from her mother, Minalia, that the Pyreladin Stronghold
 
 ### Plot:
 
-lorem awdkaowkdoakwdaowkd
+Dienia arrives at the stronghold, only to find that part of the stronghold has been breached. She rushes over to cover the Minor Arcana Mages' weak point.
 
 **Where:** Pyreladin Stronghold
 
@@ -36,7 +36,7 @@ lorem awdkaowkdoakwdaowkd
 
 ### Plot:
 
-lorem aaaaaaaaaaaaaaaaaaaaaaaa
+After dealing with the nearby Aeon Flux soldiers, Dienia receives a message from her mother about Aeon Flux's attack on the Arcantia Canal. Her sister, Aselien, was sent to support the Royal Army stationed there. Dienia then proceeds to deal with the nearby Aeon Flux Stronghold.
 
 **Where:** Pyreladin Stronghold
 
@@ -54,7 +54,7 @@ lorem aaaaaaaaaaaaaaaaaaaaaaaa
 
 ### Plot:
 
-lorem bbbbbbbbbbbbbbbb
+After 
 
 **Where:** Aeon Flux Temporary Stronghold
 
