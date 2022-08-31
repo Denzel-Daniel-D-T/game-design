@@ -413,7 +413,7 @@ Dienia and Aselien returned to Southern Mystosa to find Dexis Trionis again, as 
 
 Dienia and Aselien swiftly returns to the Royal Castle to report to Queen Minexia about the situation.
 
-**Where:** Southern Mystosa
+**Where:** Mystosa Royal Castle
 
 **When:** 22:00, 28 February 5000 BC
 
@@ -432,7 +432,7 @@ After a good night's rest, Dienia and Aselien headed for the Arcantia Canal to m
 
 **It is revealed that Dexis Trionis is not his real name.**
 
-**Where:** Southern Mystosa
+**Where:** Arcantia Canal
 
 **When:** 07:30, 1 March 5000 BC
 
@@ -443,3 +443,169 @@ After a good night's rest, Dienia and Aselien headed for the Arcantia Canal to m
 - Aeon Flux Soldiers
 - Pavionus an Ministria
 - Dexis Trionis
+
+#Chapter 5
+
+## Scene 1
+
+### Plot:
+
+Isenina assigns Dienia a curious task, where traces of Alienis was detected near the Gelum Core in the north.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 09:45, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Isenina Panonine Mystenia
+- Aselien Lumia Myssilia
+
+## Scene 2
+
+### Plot:
+
+As usual, Aeon Flux soldiers were at the location in question. However, things turned sour quickly when suddenly, their elite soldiers arrived with heavy laser machineguns, and an unknown entity overpowered Elysia, Celia, and Myrica.
+
+**Where:** Northern Snow Plains
+
+**When:** 10:30, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Aeon Flux Soldiers
+- Elite Aeon Flux Soldiers
+- Myrica Animus Crocielle
+- Elysia Rhivenyere Kazimir
+- Celia Vasiris Kazimir
+- A-1
+
+## Scene 3
+
+### Plot:
+
+After escaping the scene with the help of A-1, Dienia and Aselien asked A-1 about his origins and the current situation.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 11:15, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- A-1
+
+## Scene 4
+
+### Plot:
+
+Queen Minexia immediately summoned all available personnel after learning about the nature of the situation near the Gelum Core in the north. She has decided that Mystosa shall halt all planet development and focus on building underground cities to protect against future invasions.
+
+**A-2's name was revealed to be Steiron Vaulis Aenyxia.**
+
+**Where:** Mystosa Royal Castle
+
+**When:** 12:00, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- A-1
+- Minexia Sclaire Mystenia
+- Minalia Hinei Myssilia
+- Yumeiron Osirin Mystenia
+- Isenina Panonine Mystenia
+- Peridenia Astraes Mystenia
+- Pavionus an Ministria
+- Myrica Animus Crocielle
+- A-3
+- A-4
+- Miyuteria Lemien Mystenia
+
+## Scene 5
+
+### Plot:
+
+A short while after the plan discussions were finished, a hostile figure appeared and threatened to blow up the Royal Castle within 45 minutes. A-1 was sent to deal with the issue.
+
+**Where:** North of Mystosa Capital
+
+**When:** 12:45, 1 March 5000 BC
+
+### Who:
+
+- A-1
+- Unknown Tenebrae spear-wielding Aetereon
+
+## Scene 6
+
+### Plot:
+
+After A-1 killed the opposing Aetereon before him, he decided that he shall fully bind his life into Planet Mystosa by revealing his true name.
+
+**A-1 reveals his true name: Dyminexus Arteixin Zemistrion.**
+
+**Where:** Mystosa Royal Castle
+
+**When:** 13:15, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Dyminexus (A-1)
+- Minexia Sclaire Mystenia
+- Minalia Hinei Myssilia
+- Yumeiron Osirin Mystenia
+
+## Scene 7
+
+### Plot:
+
+The mysterious person that single-handedly crushed Elysia and the others appeared again in front of the Royal Castle, and Queen Minexia decided that it is high time that the underground city shall be built. She reveals a secret transportation method whose activation method is known only to Mystosan Kings and Queens to transport everyone out of the capital. Dienia and Aselien was tasked to rescue Myrica before regrouping with the others.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 13:30, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Dyminexus
+- Minexia Sclaire Mystenia
+- Minalia Hinei Myssilia
+- Yumeiron Osirin Mystenia
+- Pavionus an Ministria
+- Isenina Panonine Mystenia
+- Peridenia Astraes Mystenia
+- Myrica Animus Crocielle
+
+# Chapter 6
+
+## Scene 1
+
+### Plot:
+
+After rescuing Myrica from the mysterious person, Dienia and Aselien flew straight towards the north, where the others are waiting.
+
+**Where:** Gelum Core
+
+**When:** 15:30, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Minexia Sclaire Mystenia
+- Minalia Hinei Myssilia
+- Yumeiron Osirin Mystenia
+- Pavionus an Ministria
+- Isenina Panonine Mystenia
+- Peridenia Astraes Mystenia
+- Myrica Animus Crocielle
