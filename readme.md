@@ -32,7 +32,7 @@ C14200160 - Denzel Daniel D'Assante Tangsaputra
 - Extensive elemental combat system, where each attack can have elements infused into them.
 - Environmental objects can be destroyed with certain elements, and might drop unique items depending on the elements used.
 
-Action:
+### Action:
 - Interact with NPCs
 - Pick up items
 - Enter/Exit building
@@ -42,7 +42,7 @@ Action:
 - Upgrade Skills
 - Fight enemies
 
-Map / Background:
+### Map / Background:
 - Story takes place in Planet Mystosa, but only key locations are accessible
 - Planet Mystosa, located in Galaxy IC 1101
 - Story takes place 5000 years ago, when Aeon Flux invaded the planet for its resources. The planet's inhabitants responded by fiercely defending their planet's key locations and sending out their absolute best warriors and mages.
