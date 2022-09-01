@@ -33,7 +33,7 @@ C14200160 - Denzel Daniel D'Assante Tangsaputra
 - Environmental objects can be destroyed with certain elements, and might drop unique items depending on the elements used.
 
 ### Action:
-- Interact with NPCs
+- Interact with NPCs (Non Player Characters)
 - Pick up items
 - Enter/Exit building
 - Break objects
@@ -44,11 +44,11 @@ C14200160 - Denzel Daniel D'Assante Tangsaputra
 
 ### Map / Background:
 - Story takes place in Planet Mystosa, but only key locations are accessible
-- Planet Mystosa, located in Galaxy IC 1101
+- Planet Mystosa, located in an unnamed Galaxy (for now)
 - Story takes place 5000 years ago, when Aeon Flux invaded the planet for its resources. The planet's inhabitants responded by fiercely defending their planet's key locations and sending out their absolute best warriors and mages.
 - Various story related buildings
 
-Complexity:
+### Complexity:
 - Multiple simultaneous playable character
 	- Switch from one character to another, with a cooldown; uncontrolled characters use an AI.
 - Story heavy (already planned out)
