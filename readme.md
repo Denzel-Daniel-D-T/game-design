@@ -22,9 +22,17 @@ C14200160 - Denzel Daniel D'Assante Tangsaputra
 
 **Aselien Lumia Myssilia:** Dienia's sister, she handles logistics and other background tasks whenever required. Seemingly innocent, her skill in balancing Ordo and Lux makes her a deadly adversary to those foolish enough to threaten her planet's prosperity.
 
+**Minexia Sclaire Mystenia:** The current Queen of Planet Mystosa, she excels in the art of Ether, as expected from all clan leaders of the Mystenia Clan.
+
+**Pavionus an Ministria:** The Royal Scientist of Planet Mystosa, his technological ideas and advances are the Lexi Ministria's Clan trademark skill, yet he has found a way to surpass even their ancestor's expectations.
+
+**Minalia Hinei Myssilia:** Dienia and Aselien's mother, she is the leader of the Myssilia Clan.
+
+**Yumeiron Osirin Mystenia:** Husband of Minalia, he leads the Mystosa Royal Army during tough times. With extreme strategical knowledge, no foreign forces shall outsmart the Royal Army.
+
 **Dyminexus Arteixin Zemistrion:** The last heir of a mysterious species' clan. After losing his home planet to an even more mysterious malignant entity, he has wandered the galaxy, looking for a place to call home again, and has settled in Planet Mystosa after a long journey.
 	
-**Chronoxystel Dextrion Alystrein:** A relatively young descendant of a certain mysterious species, seemingly serving Aeon Flux as one of his generals. Has a strong sense of duty and justice. Maybe if you can convince him to see Aeon Flux's atrocities, you might be able to get him to help Planet Mystosa...
+**Chronoxystel Dextrion Alystrein:** A relatively young descendant of a certain mysterious species, serving Aeon Flux as one of his generals. He has a strong sense of duty and justice. After various events, he decided to side with Planet Mystosa after seeing Aeon Flux's atrocities.
 
 ### Key Points of Interest:
 - Extensive world with many backgrounds, where each structure has their own history written out.
