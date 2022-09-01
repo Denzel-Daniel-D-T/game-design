@@ -30,7 +30,7 @@ C14200160 - Denzel Daniel D'Assante Tangsaputra
 
 **Yumeiron Osirin Mystenia:** Husband of Minalia, he leads the Mystosa Royal Army during tough times. With extreme strategical knowledge, no foreign forces shall outsmart the Royal Army.
 
-**Dyminexus Arteixin Zemistrion:** The last heir of a mysterious species' clan. After losing his home planet to an even more mysterious malignant entity, he has wandered the galaxy, looking for a place to call home again, and has settled in Planet Mystosa after a long journey.
+**Dyminexus Arteixin Zemistrion:** The last heir of a mysterious species' clan. After losing his home planet to an even more mysterious malignant entity, he has wandered the galaxy, looking for a place to call home again, and has settled in Planet Mystosa after a long journey. With codename "A-1", he is one of Mystosa's Major Arcana Mages, where he leads the Warfare Division.
 	
 **Chronoxystel Dextrion Alystrein:** A relatively young descendant of a certain mysterious species, serving Aeon Flux as one of his generals. He has a strong sense of duty and justice. After various events, he decided to side with Planet Mystosa after seeing Aeon Flux's atrocities.
 
