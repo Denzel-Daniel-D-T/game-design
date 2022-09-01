@@ -1,15 +1,23 @@
-Members:
+## Members:
+
 C14190017 - Wilson Otto
+
 C14200023 - Winston
+
 C14200039 - Budiman Candra
+
 C14200062 - Angelo Brian Rafael
+
 C14200160 - Denzel Daniel D'Assante Tangsaputra
 
 **Theme:** Fantasy
+
 **Genre:** Open World, Action, Adventure, Hack and Slash
+
 **Target User:** Teenager, Story/Worldbuilding/Lore enthusiast
 
 ### Character:
+
 **Dienia Elei Myssilia:** A master swordswoman and well versed in the art of Tenebrae, she is heir to the Myssilia Clan and the royal army's first line of defense in infiltration missions. (Main Character)
 
 **Aselien Lumia Myssilia:** Dienia's sister, she handles logistics and other background tasks whenever required. Seemingly innocent, her skill in balancing Ordo and Lux makes her a deadly adversary to those foolish enough to threaten her planet's prosperity.
