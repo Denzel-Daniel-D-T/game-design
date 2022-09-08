@@ -4,7 +4,7 @@
 
 ### Plot:
 
-Dienia receives a report from her mother, Minalia, that the Pyreladin Stronghold was attacked by Aeon Flux.
+Dienia receives a report from her mother, Minalia, that the Pyreladin Stronghold was attacked by Aeon Flux's forces.
 
 **Where:** Mystosa Royal Castle
 
@@ -320,7 +320,7 @@ After reaching the Pyreladin Stronghold, Dienia and Elysia went further in to es
 
 ### Plot:
 
-After a hard battle, the axeman was defeated, however, Dienia expended too much of her energy in the fight. Seeing as her sister still needs help in the Arcantia Canal, Dienia decided to send Elysia there in her place, while she retreats back towards the Royal Castle to recover.
+After a hard battle, the axeman was defeated, however, Dienia expended too much of her energy in the fight. Seeing as her sister still needs help in the Arcantia Canal, Dienia decided to send Elysia there in her place along with some Minor Arcana Mages, while she retreats back towards the Royal Castle to recover.
 
 **Where:** Pyreladin Stronghold - Central Courtyard
 
@@ -330,3 +330,35 @@ After a hard battle, the axeman was defeated, however, Dienia expended too much 
 
 - Dienia Elei Myssilia
 - Elysia Rhivenyere Kazimir
+- Minor Arcana Mages
+
+## Scene 22
+
+### Plot:
+
+Elysia and the Minor Arcana Mages travel towards the Arcantia Canal, dealing with stray Aeon Flux Soldiers along the way.
+
+**Where:** Road between Pyreladin Stronghold and Arcantia Canal
+
+**When:** 12:30, 24 February 5000 BC
+
+### Who:
+
+- Elysia Rhivenyere Kazimir
+- Minor Arcana Mages
+
+## Scene 23
+
+### Plot:
+
+After arriving in the Arcantia Canal, the Minor Arcana Mages reassign their tasks with the nearby general on station, while Elysia was greeted by Aselien, Dienia's sister.
+
+**Where:** Road between Pyreladin Stronghold and Arcantia Canal
+
+**When:** 14:00, 24 February 5000 BC
+
+### Who:
+
+- Elysia Rhivenyere Kazimir
+- Aselien Lumia Myssilia
+- Minor Arcana Mages
