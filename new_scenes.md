@@ -257,15 +257,76 @@ With the towers destroyed and the Aeon Flux Soldiers and Archers panicking, Dien
 
 ### Plot:
 
-After arriving in the center of the stronghold, Dienia and the mysterious person decides to hide in a dark corner to avoid detection. They decided to introduce themselves, seeing as they've been allies for a good period of time.
+After arriving in the center of the stronghold, Dienia and the mysterious person decides to hide in a dark corner to avoid detection. They decided to introduce themselves, seeing as they've been allies for a good period of time. The mysterious person introduces herself as Elysia Rhivenyere Kazimir.
 
-**Where:** Aeon Flux Temporary Stronghold - Western Field
+**Where:** Aeon Flux Temporary Stronghold - Central Hall
 
 **When:** 11:45, 24 February 5000 BC
 
 ### Who:
 
 - Dienia Elei Myssilia
-- "Sword Princess"
-- Aeon Flux Archers
+- Elysia Rhivenyere Kazimir (Sword Princess)
+
+## Scene 18
+
+### Plot:
+
+Dienia and Elysia's interaction gets cut short when their hiding location was discovered. Dienia immediately runs towards the western gates, while Elysia uses a shadow technique to escape towards another direction.
+
+**Where:** Aeon Flux Temporary Stronghold - Central Hall
+
+**When:** 11:50, 24 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Elysia Rhivenyere Kazimir (Sword Princess)
 - Aeon Flux Soldiers
+
+## Scene 19
+
+### Plot:
+
+Dienia manages to meet up with Elysia again after going through the stronghold. They decided to take on a shortcut to avoid most of the soldiers guarding the path.
+
+**Where:** Aeon Flux Temporary Stronghold - Western Field
+
+**When:** 12:00, 24 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Elysia Rhivenyere Kazimir
+- Aeon Flux Soldiers
+
+## Scene 20
+
+### Plot:
+
+After reaching the Pyreladin Stronghold, Dienia and Elysia went further in to escape back towards the castle through the western entrance. However, their path was blocked by the sight of dead Minor Arcana Mages and a mysterious man holding a gigantic axe. The two face off against the axeman.
+
+**Where:** Pyreladin Stronghold - Central Courtyard
+
+**When:** 12:15, 24 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Elysia Rhivenyere Kazimir
+- Unknown Ignis Axeman
+
+## Scene 21
+
+### Plot:
+
+After a hard battle, the axeman was defeated, however, Dienia expended too much of her energy in the fight. Seeing as her sister still needs help in the Arcantia Canal, Dienia decided to send Elysia there in her place, while she retreats back towards the Royal Castle to recover.
+
+**Where:** Pyreladin Stronghold - Central Courtyard
+
+**When:** 12:15, 24 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Elysia Rhivenyere Kazimir
