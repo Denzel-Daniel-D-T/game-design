@@ -346,6 +346,7 @@ Elysia and the Minor Arcana Mages travel towards the Arcantia Canal, dealing wit
 
 - Elysia Rhivenyere Kazimir
 - Minor Arcana Mages
+- Aeon Flux Soldiers
 
 ## Scene 23
 
