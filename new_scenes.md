@@ -133,4 +133,139 @@ As Dienia was helping the Minor Arcana Mages, a messenger from the Royal Castle 
 ### Who:
 
 - Dienia Elei Myssilia
+- Minor Arcana Mages
+- Minor Arcana Mage Messenger
+- Aeon Flux Soldiers
+
+## Scene 10
+
+### Plot:
+
+Suddenly, a barrage of arrows were coming from the east, laying waste to the stronghold's defenses. Dienia tells the Minor Arcana Mages to stay low while she deals with the Aeon Flux Archers.
+
+**Where:** Pyreladin Stronghold - Eastern Entrance
+
+**When:** 10:45, 24 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Minor Arcana Mages
+- Aeon Flux Archers
+
+## Scene 11
+
+### Plot:
+
+Dienia proceeds to destroy the closest towers to prevent further damage to the stronghold.
+
+**Where:** Aeon Flux Temporary Stronghold - Western Field
+
+**When:** 10:45, 24 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Minor Arcana Mages
+- Aeon Flux Archers
+
+## Scene 12
+
+### Plot:
+
+However, after getting destroyed, the towers swiftly rebuild themselves, forcing Dienia to rethink her strategies. Suddenly, the mysterious person reappeared and offered to help, to which Dienia agrees sets off towards different towers.
+
+**Where:** Aeon Flux Temporary Stronghold - Western Field
+
+**When:** 10:55, 24 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- "Sword Princess"
+- Aeon Flux Archers
+
+## Scene 13
+
+### Plot:
+
+The mysterious person agrees to distract the soldiers, while Dienia goes deeper into the stronghold to find and permanently shut down their generators.
+
+**Where:** Aeon Flux Temporary Stronghold - Western Field
+
+**When:** 11:00, 24 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- "Sword Princess"
+- Aeon Flux Archers
+- Aeon Flux Soldiers
+
+## Scene 14
+
+### Plot:
+
+Dienia arrives at one of the generators, but she's unable to do meaningful damage to it due to excessive protection. Not long after, the mysterious person arrives, and casts a mysterious spell, which manifests itself as a Pentakis Dodecahedron. Dienia absorbs the dodecahedron with her sword, and her sword starts to swirl with Ordo and Perditio, allowing her to break through the generator's defenses.
+
+**Where:** Aeon Flux Temporary Stronghold - Western Field
+
+**When:** 11:10, 24 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- "Sword Princess"
+- Aeon Flux Archers
+- Aeon Flux Soldiers
+
+## Scene 15
+
+### Plot:
+
+After destroying the generators, Dienia and the mysterious person returns to the archer towers and proceeds to destroy all of them.
+
+**Where:** Aeon Flux Temporary Stronghold - Western Field
+
+**When:** 11:20, 24 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- "Sword Princess"
+- Aeon Flux Archers
+- Aeon Flux Soldiers
+
+## Scene 16
+
+### Plot:
+
+With the towers destroyed and the Aeon Flux Soldiers and Archers panicking, Dienia and the mysterious person rushes towards the center of the stronghold.
+
+**Where:** Aeon Flux Temporary Stronghold - Western Field
+
+**When:** 11:30, 24 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- "Sword Princess"
+- Aeon Flux Archers
+- Aeon Flux Soldiers
+
+## Scene 17
+
+### Plot:
+
+After arriving in the center of the stronghold, Dienia and the mysterious person decides to hide in a dark corner to avoid detection. They decided to introduce themselves, seeing as they've been allies for a good period of time.
+
+**Where:** Aeon Flux Temporary Stronghold - Western Field
+
+**When:** 11:45, 24 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- "Sword Princess"
+- Aeon Flux Archers
 - Aeon Flux Soldiers
