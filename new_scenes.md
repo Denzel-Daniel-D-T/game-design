@@ -565,6 +565,7 @@ After Dienia finished off the squad leader, she went to help Elysia deal with th
 Not long after, an unfamiliar tank approaches. Once the tank stopped moving, the hatch opened, and an unfamiliar person came out of it. The person immediately called out to Elysia, and Elysia responds back.
 
 **New Character: A-1**
+
 **New Character: Myrica Animus Crocielle**
 
 **Where:** Southern Mystosa
@@ -653,6 +654,8 @@ Dienia and Aselien both attempt to follow the flare. However, they met Dexis Tri
 
 In addition to repeating his statements earlier, Dexis mentioned an additional important piece of information: *His troops only have permission to harvest resources, and use force whenever necessary, from and in Southern Mystosa, respectively.*
 
+Without much prompting, Dienia and Aselien swiftly retreated back towards the Royal Castle.
+
 **Where:** Southern Mystosa
 
 **When:** 14:15, 25 February 5000 BC
@@ -662,3 +665,57 @@ In addition to repeating his statements earlier, Dexis mentioned an additional i
 - Dienia Elei Myssilia
 - Aselien Lumia Myssilia
 - "Dexis Trionis"
+
+## Scene 9
+
+### Plot:
+
+Dienia and Aselien returned to the castle through the back entrance, and was greeted by Queen Minexia in the courtyard. The moment they came close, however, the Queen immediately asked them if they had been in contact with a certain creature.
+
+After a bit of explanation, the Queen urges them to come inside and discuss about the topic in a soundproof room.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 18:00, 25 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Minexia Sclaire Mystenia
+
+## Scene 10
+
+### Plot:
+
+After entering the soundproof room, Queen Minexia introduced the two about an ancient species: **The Aetereons.** She also speculated that the general earlier was most likely an Aetereon, from his demeanor and proficiency in the element Ether.
+
+During this time, Dienia also asked if A-1 is also an Aetereon, to which the Queen also speculated that he is one. However, even she doesn't know A-1's real name due to him being very careful about guarding his true identity.
+
+When all was said and done, the Queen gave Dienia and Aselien a very needed 3 day rest.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 18:10, 25 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Minexia Sclaire Mystenia
+
+## Scene 11
+
+### Plot:
+
+After the talk about Aetereons and the general, Dienia's mental gear of curiosity started to spin, prompting her to check various documents inside her clan's dormitory to learn more about the Aetereons.
+
+Her journey into the world of documents continued until late at night, and by 23:30 Dienia decided to head for the bed.
+
+**Where:** Mystosa Royal Castle - Myssilia Clan Dormitory
+
+**When:** 18:20, 25 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
