@@ -461,3 +461,35 @@ Suddenly, the temporary base's watchtower's siren rang, and an alarming amount o
 - Elysia Rhivenyere Kazimir
 - Aselien Lumia Myssilia
 - Minor Arcana Mage general
+- Aeon Flux Soldiers
+
+## Scene 30
+
+### Plot:
+
+Elysia keeps killing the invading soldiers, yet their assault seems to never end. Just as she was planning to fall back, a loud voice rang out from the north, and a large amount of Minor Arcana Mages marched out and casted an all out assault directed towards the spaceships. Elysia proceeds to continue defending her location.
+
+**Where:** Arcantia Canal - East of Royal Army Temporary Base
+
+**When:** 15:30, 24 February 5000 BC
+
+### Who:
+
+- Elysia Rhivenyere Kazimir
+- Yumeiron Osirin Mystenia
+- Minor Arcana Mage general
+
+## Scene 31
+
+### Plot:
+
+After most of the Aeon Flux Soldiers were wiped out, Elysia gets a call from her brother. After the call ended, she decided to roam Mystosa, and defeat any Aeon Flux Soldiers she might find along the way.
+
+**Where:** Arcantia Canal - East of Royal Army Temporary Base
+
+**When:** 16:00, 24 February 5000 BC
+
+### Who:
+
+- Elysia Rhivenyere Kazimir
+- Elysia's Brother
