@@ -399,3 +399,49 @@ After dealing with the remaining Aeon Flux Soldiers, Aselien plans her next move
 - Minor Arcana Mages
 - Minor Arcana Mage General
 - Aeon Flux Soldiers
+
+## Scene 26
+
+### Plot:
+
+Elysia helps out the nearby Minor Arcana Mages with repairing the Arcane Barriers.
+
+**Where:** Arcantia Canal - Royal Army Temporary Base
+
+**When:** 14:35, 24 February 5000 BC
+
+### Who:
+
+- Elysia Rhivenyere Kazimir
+- Minor Arcana Mages
+
+## Scene 27
+
+### Plot:
+
+A nearby Minor Arcana Mage general calls out to Elysia, asking if she could help him carry some cargo to the southern gates of the base.
+
+**Where:** Arcantia Canal - Royal Army Temporary Base
+
+**When:** 14:40, 24 February 5000 BC
+
+### Who:
+
+- Elysia Rhivenyere Kazimir
+- Minor Arcana Mage general
+
+## Scene 28
+
+### Plot:
+
+Aselien calls out to Elysia to proceed with the strategy she discussed with the general earlier.
+
+**Where:** Arcantia Canal - Royal Army Temporary Base
+
+**When:** 14:45, 24 February 5000 BC
+
+### Who:
+
+- Elysia Rhivenyere Kazimir
+- Aselien Lumia Myssilia
+- Minor Arcana Mage general
