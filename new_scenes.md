@@ -354,7 +354,7 @@ Elysia and the Minor Arcana Mages travel towards the Arcantia Canal, dealing wit
 
 After arriving in the Arcantia Canal, the Minor Arcana Mages reassign their tasks with the nearby general on station, while Elysia was greeted by Aselien, Dienia's sister.
 
-**Where:** Road between Pyreladin Stronghold and Arcantia Canal
+**Where:** Arcantia Canal - Royal Army Temporary Base
 
 **When:** 14:00, 24 February 5000 BC
 
@@ -363,3 +363,39 @@ After arriving in the Arcantia Canal, the Minor Arcana Mages reassign their task
 - Elysia Rhivenyere Kazimir
 - Aselien Lumia Myssilia
 - Minor Arcana Mages
+
+## Scene 24
+
+### Plot:
+
+Elysia and Aselien's conversation were cut short when a Minor Arcana Mage general reported an attack south of the canal. Aselien immediately jumps into the field to provide backup, while Elysia follows suit.
+
+**Where:** Arcantia Canal
+
+**When:** 14:05, 24 February 5000 BC
+
+### Who:
+
+- Elysia Rhivenyere Kazimir
+- Aselien Lumia Myssilia
+- Minor Arcana Mages
+- Minor Arcana Mage General
+- Aeon Flux Soldiers
+
+## Scene 25
+
+### Plot:
+
+After dealing with the remaining Aeon Flux Soldiers, Aselien plans her next move with the nearby general. Elysia decided to help with some menial tasks around the temporary base.
+
+**Where:** Arcantia Canal - Royal Army Temporary Base
+
+**When:** 14:30, 24 February 5000 BC
+
+### Who:
+
+- Elysia Rhivenyere Kazimir
+- Aselien Lumia Myssilia
+- Minor Arcana Mages
+- Minor Arcana Mage General
+- Aeon Flux Soldiers
