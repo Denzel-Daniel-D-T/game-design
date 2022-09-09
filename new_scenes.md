@@ -445,3 +445,19 @@ Aselien calls out to Elysia to proceed with the strategy she discussed with the 
 - Elysia Rhivenyere Kazimir
 - Aselien Lumia Myssilia
 - Minor Arcana Mage general
+
+## Scene 29
+
+### Plot:
+
+Suddenly, the temporary base's watchtower's siren rang, and an alarming amount of spaceships started moving towards the field east of the temporary base. The timing couldn't be worse, as Aselien just got a report that she was summoned to the Royal Castle and was to be there ASAP. Hearing this, Elysia says her regards and jumps into the battlefield.
+
+**Where:** Arcantia Canal - Royal Army Temporary Base
+
+**When:** 15:00, 24 February 5000 BC
+
+### Who:
+
+- Elysia Rhivenyere Kazimir
+- Aselien Lumia Myssilia
+- Minor Arcana Mage general
