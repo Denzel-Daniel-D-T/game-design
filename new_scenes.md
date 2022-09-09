@@ -493,3 +493,172 @@ After most of the Aeon Flux Soldiers were wiped out, Elysia gets a call from her
 
 - Elysia Rhivenyere Kazimir
 - Elysia's Brother
+
+# Intermission
+
+Aselien returns to the Royal Castle, and reports the situation to the Mystosa Royal Strategist, Isenina Panonine Mystenia. Dienia was there, and both of them were tasked to support Western Mystosa ASAP.
+
+They travelled there until it was midnight, where they met the one stationed there, Peridenia Astraes Mystenia, Isenina's sister. After getting familiar with the location, they helped with various tasks that held back Western Mystosa's forces from effectively fighting Aeon Flux's forces.
+
+Midway through, they met Elysia again, this time with a new face, Celia Vasiris Kazimir, Elysia's sister. On the way back to the Royal Castle, they talked about Mystosa's history in various aspects.
+
+Arriving in the Royal Castle far past midnight, Elysia and Celia were invited into the Castle for a big banquet, attended by all major parties of Mystosa's council.
+
+# Chapter 2
+
+## Scene 1
+
+### Plot:
+
+After resting for the night, Dienia, Aselien and Elysia met up in front of the dining hall and talked about various topics. Suddenly, Queen Minexia called Dienia for an important meeting. Aselien and Elysia were left wondering about the topic. However, not long after, Dienia came back running with an emergency. 
+
+**Where:** Mystosa Royal Castle
+
+**When:** 08:15, 25 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Minexia Sclaire Mystenia
+- Elysia Rhivenyere Kazimir
+
+## Scene 2
+
+### Plot:
+
+After arriving in Southern Mystosa, the three plan their actions while hiding behind the nearby boulders to prevent detection.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 11:45, 25 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Elysia Rhivenyere Kazimir
+
+## Scene 2
+
+### Plot:
+
+While moving forward, Dienia noticed some Aeon Flux Soldiers employing guerilla tactics nearby. She forces them out of hiding and fought their squad leader, while Elysia takes care of the rest. Aselien makes sure Elysia doesn't get flanked.
+
+**Where:** Southern Mystosa
+
+**When:** 11:45, 25 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Elysia Rhivenyere Kazimir
+- Aeon Flux Soldiers
+
+## Scene 3
+
+### Plot:
+
+After Dienia finished off the squad leader, she went to help Elysia deal with the rest of the soldiers. However, an Ignis trail appeared from the east and struck the Aeon Flux soldiers directly. The trail conflagrated and a man wielding a sword appeared, striking the soldiers down. Dienia and Aselien immediately recognized him as A-1, one of Mystosa's Major Arcana Mages, who leads the Warfare Division.
+
+Not long after, an unfamiliar tank approaches. Once the tank stopped moving, the hatch opened, and an unfamiliar person came out of it. The person immediately called out to Elysia, and Elysia responds back.
+
+**New Character: A-1**
+**New Character: Myrica Animus Crocielle**
+
+**Where:** Southern Mystosa
+
+**When:** 12:15, 25 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Elysia Rhivenyere Kazimir
+- A-1
+- Myrica Animus Crocielle
+
+## Scene 4
+
+### Plot:
+
+After strategizing their next move with A-1, Dienia and Aselien continued further south, while A-1 stays behind to cover the Royal Army's flank. Elysia and Myrica decided to stay behind to guard the escape route.
+
+En route further south, Dienia and Aselien met more Aeon Flux soldiers.
+
+**Where:** Southern Mystosa
+
+**When:** 12:30, 25 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Aeon Flux Soldier
+
+## Scene 5
+
+### Plot:
+
+After dealing with the soldiers, Dienia and Aselien kept going until they reached an abandoned town. However, they met a mysterious person with unrivaled strength and agility named Dexis Trionis.
+
+Dexis Trionis proposed an agreement: Dienia and Aselien keeps out of his business and allow his troops to continue their operations undisturbed.
+
+**Where:** Southern Mystosa - Abandoned Town
+
+**When:** 13:00, 25 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- "Dexis Trionis"
+
+## Scene 6
+
+### Plot:
+
+Not wanting to cause unnecessary deaths of their comrades and losing their lives in the process, Dienia and Aselien agreed to his deals and left his squad's operations alone, and planned to return to the previous location to warn the others.
+
+**Where:** Southern Mystosa
+
+**When:** 13:15, 25 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+
+## Scene 7
+
+### Plot:
+
+Dienia and Aselien reached the area Elysia and Myrica was guarding earlier, but they were nowhere to be found. Suddenly, a flare shot out from the eastern side of the Southern Mystosa Valleys. According to Dienia, the flare should be the emergency flare A-2 uses to warn others.
+
+**Where:** Southern Mystosa
+
+**When:** 13:45, 25 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+
+## Scene 8
+
+### Plot:
+
+Dienia and Aselien both attempt to follow the flare. However, they met Dexis Trionis again midway through the journey.
+
+In addition to repeating his statements earlier, Dexis mentioned an additional important piece of information: *His troops only have permission to harvest resources, and use force whenever necessary, from and in Southern Mystosa, respectively.*
+
+**Where:** Southern Mystosa
+
+**When:** 14:15, 25 February 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- "Dexis Trionis"
