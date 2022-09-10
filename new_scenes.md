@@ -719,3 +719,67 @@ Her journey into the world of documents continued until late at night, and by 23
 ### Who:
 
 - Dienia Elei Myssilia
+
+# Chapter 3
+
+## Scene 1
+
+### Plot:
+
+After resting for 3 days, Dienia decided that she should assign herself some tasks to lighten the burden carried by the other members of the council. However, Dienia thought that if the Myssilia Clan had met Aetereons before, surely the other clans did as well, knowing that the Myssilia Clan wasn't exactly a clan that stood out during the ancient times. Armed with this insight, Dienia went to the Throne Room to look for Queen Minexia or Isenina.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 08:15, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+
+
+## Scene 2
+
+### Plot:
+
+Dienia reached the Throne Room, yet Queen Minexia seems to be missing. Dienia decided to ask the nearby Royal Guard regarding her whereabouts.
+
+However, the guard responded that even he had no idea where the Queen went. Dienia simply dismissed the plan for now, thinking that the Queen might be busy in a clan meeting.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 08:25, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Royal Guard
+
+
+## Scene 3
+
+### Plot:
+
+Just as Dienia started walking back towards her clan's dormitory, a warning sounded through the entire castle. Dienia immediately ran towards the first floor to assess the situation.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 08:30, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+
+## Scene 4
+
+### Plot:
+
+Dienia reached the first floor of the castle, looking around to see what was going on. Not long after, Sir Pavionus appeared and urged Dienia to rush towards the southern entrance of the capital, while he and A-1 defended the northern entrance. Dienia immediately rushed towards the south.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 08:35, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Pavionus an Ministria
