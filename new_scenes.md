@@ -754,7 +754,6 @@ However, the guard responded that even he had no idea where the Queen went. Dien
 - Dienia Elei Myssilia
 - Royal Guard
 
-
 ## Scene 3
 
 ### Plot:
@@ -775,6 +774,8 @@ Just as Dienia started walking back towards her clan's dormitory, a warning soun
 
 Dienia reached the first floor of the castle, looking around to see what was going on. Not long after, Sir Pavionus appeared and urged Dienia to rush towards the southern entrance of the capital, while he and A-1 defended the northern entrance. Dienia immediately rushed towards the south.
 
+**New Character (Met in Intermission): Pavionus an Ministria (Minexia's husband)**
+
 **Where:** Mystosa Royal Castle
 
 **When:** 08:35, 1 March 5000 BC
@@ -783,3 +784,39 @@ Dienia reached the first floor of the castle, looking around to see what was goi
 
 - Dienia Elei Myssilia
 - Pavionus an Ministria
+
+## Scene 5
+
+### Plot:
+
+Dienia reached the southern entrance of the capital, and swiftly dealt with the nearby Aeon Flux soldiers.
+
+Midway through Dienia's cleanup process, Aselien arrives and provides support.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 08:45, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Aeon Flux Soldiers
+
+## Scene 6
+
+### Plot:
+
+After dealing with the soldiers, Dienia noticed something attached to the uniforms worn by the recently killed Aeon Flux soldiers. After looking at it closely, it turns out to be Dexis Trionis' sigil. This proves that the recent attacks were done by Dexis' troops.
+
+Dienia took a snapshot of the magic signature emanated from the sigils.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 09:15, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Aeon Flux Soldiers
