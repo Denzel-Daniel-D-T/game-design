@@ -951,7 +951,7 @@ After dealing with the remaining soldiers, Dienia and Miyu carry A-3 back to the
 
 ### Plot:
 
-
+After reaching the castle, Dienia and Miyu called over the medical team to check up on A-3's condition. Not long after, Queen Minexia arrived and called all Eight Clans member and all Major Arcana Mages to attend a ceremony. Hearing this, Dienia and Miyu went to their respective dorms to grab their ceremonial garments.
 
 **Where:** Mystosa Royal Castle
 
@@ -960,3 +960,9 @@ After dealing with the remaining soldiers, Dienia and Miyu carry A-3 back to the
 ### Who:
 
 - Dienia Elei Myssilia
+- Miyuteria Lemien Mystenia (A-5)
+- Minexia Sclaire Mystenia
+- Minor Arcana Mages
+
+https://www.hoyolab.com/article/118389
+https://docs.google.com/spreadsheets/d/1lrE5EGtuDsrwRJNSHIEN9hsGggxzLHmDV5rwuHkmndQ/edit#gid=0
