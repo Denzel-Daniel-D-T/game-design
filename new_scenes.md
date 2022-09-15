@@ -906,3 +906,57 @@ The three travels towards the north to assess the situation.
 - Aselien Lumia Myssilia
 - Miyuteria Lemien Mystenia (A-5)
 
+## Scene 12
+
+### Plot:
+
+After reaching the northern entrance, the trio sees A-3 lying on the ground. Just as they were trying to tend to A-3's injuries, a spear was thrown at Dienia's position, which Dienia narrowly avoided. Dienia decided to deal with the Aeon Flux Soldiers hiding nearby, while Miyu protects A-3 from further injuries. Aselien falls back to the castle to report the situation.
+
+Midway through the battle, A-1 arrives to provide support. However, the amount of Aeon Flux Soldiers seems to have increased.
+
+**New Character (Met in Intermission): A-3**
+
+**Where:** Mystosa Royal Castle
+
+**When:** 11:00, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Miyuteria Lemien Mystenia (A-5)
+- A-1
+- A-3
+- Aeon Flux Soldiers
+
+## Scene 13
+
+### Plot:
+
+After dealing with the remaining soldiers, Dienia and Miyu carry A-3 back to the Royal Castle, while A-1 makes sure there are no soldiers behind random bushes and crevices that can ambush them.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 11:30, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Miyuteria Lemien Mystenia (A-5)
+- A-1
+- A-3
+- Aeon Flux Soldiers
+
+## Scene 14
+
+### Plot:
+
+
+
+**Where:** Mystosa Royal Castle
+
+**When:** 12:00, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
