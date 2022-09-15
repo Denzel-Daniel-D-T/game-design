@@ -811,9 +811,28 @@ After dealing with the soldiers, Dienia noticed something attached to the unifor
 
 Dienia took a snapshot of the magic signature emanated from the sigils.
 
+Not long after, A-1 arrived and informed both of them to support the west side to ensure that the enemy doesn't start learning their battle styles and countering them.
+
 **Where:** Mystosa Royal Castle
 
 **When:** 09:15, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- A-1
+- Aeon Flux Soldiers
+
+## Scene 7
+
+### Plot:
+
+Dienia and Aselien travels towards the west, dealing with any Aeon Flux soldiers along the way.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 09:30, 1 March 5000 BC
 
 ### Who:
 
