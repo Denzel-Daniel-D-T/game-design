@@ -839,3 +839,70 @@ Dienia and Aselien travels towards the west, dealing with any Aeon Flux soldiers
 - Dienia Elei Myssilia
 - Aselien Lumia Myssilia
 - Aeon Flux Soldiers
+
+## Scene 8
+
+### Plot:
+
+After arriving at the western entrance of the capital, Dienia and Aselien met A-5, who Aselien recognized as Miyuteria Lemien Mystenia from her assistant days in the University of Arcane Arts.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 09:45, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Miyuteria Lemien Mystenia (A-5)
+
+## Scene 9
+
+### Plot:
+
+Midway through their conversation, a group of Aeon Flux Soldiers appeared out of the bushes and crevices nearby, attempting to ambush the trio. The three dealt with them swiftly.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 10:00, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Miyuteria Lemien Mystenia (A-5)
+- Aeon Flux Soldiers
+
+## Scene 10
+
+### Plot:
+
+After dealing with the soldiers, a Minor Arcana Mage informed the three that support is needed in the north. The trio considers their choices before setting off.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 10:30, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Miyuteria Lemien Mystenia (A-5)
+- Minor Arcana Mage
+
+## Scene 11
+
+### Plot:
+
+The three travels towards the north to assess the situation.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 10:45, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Miyuteria Lemien Mystenia (A-5)
+
