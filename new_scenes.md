@@ -964,5 +964,55 @@ After reaching the castle, Dienia and Miyu called over the medical team to check
 - Minexia Sclaire Mystenia
 - Minor Arcana Mages
 
-https://www.hoyolab.com/article/118389
-https://docs.google.com/spreadsheets/d/1lrE5EGtuDsrwRJNSHIEN9hsGggxzLHmDV5rwuHkmndQ/edit#gid=0
+# Intermission
+
+The Eight Clans and the Major Arcana Mages attend the inauguration ceremony of the Sixth Major Arcana Mage, Hymailen an Astrelia. She has been bestowed the codename A-6, and she will be leading the Medicine and Rescue Division.
+
+After the ceremony was done, everyone immediately returned to their previous activities.
+
+## Scene 15
+
+### Plot:
+
+After the ceremony was done, Dienia and Aselien went back to the Myssilia Clan Dormitory. They reequipped their battle gears and talked about their next plan. Dienia planned to talk to the Queen about Dexis' troops, while Aselien planned to scout the southern entrance for surviving Aeon Flux soldiers.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 13:15, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+
+## Scene 16
+
+### Plot:
+
+Dienia went to the Throne Room to find Queen Minexia. This time, she was present, and Dienia reported the presence of Dexis' troops in the invasion earlier.
+
+As Dienia was about to ask about information regarding the documents, however, Queen Minexia immediately covered Dienia's mouth and urged Dienia to follow her into her room.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 13:30, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Minexia Sclaire Mystenia
+
+## Scene 17
+
+### Plot:
+
+After arriving in Queen Minexia's room, Dienia started talking about the Aetereon as recorded in Myssilia Clan's documents, after which she asked the Queen if the Mystenia Clan also interacted with Aetereons in the past.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 13:35, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Minexia Sclaire Mystenia
