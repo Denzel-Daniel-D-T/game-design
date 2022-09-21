@@ -1578,31 +1578,15 @@ After escaping the area, Dienia and Aselien immediately ran back towards the cas
 - Dienia Elei Myssilia
 - Aselien Lumia Myssilia
 
-## Scene 14
+## Scene 15
 
 ### Plot:
 
 However, along the way, they both ran into A-1. Seeing their frightened expression and heavy breathing, A-1 asked the two on what just happened. After Dienia and Aselien explained everything, A-1 immediately hurries back to the castle with them, explaining that he has seen the mysterious Tenebrae entity before, and the Alienis traces issue might be bigger than expected.
 
-**Where:** Southern Gelis Continent
+**Where:** Northern Percantia Continent
 
 **When:** 18:00, 2 March 5000 BC
-
-### Who:
-
-- Dienia Elei Myssilia
-- Aselien Lumia Myssilia
-- A-1
-
-## Scene 15
-
-### Plot:
-
-Dienia, Aselien, and A-1 runs back to the castle.
-
-**Where:** Southern Gelis Continent
-
-**When:** 18:10, 2 March 5000 BC
 
 ### Who:
 
@@ -1614,9 +1598,25 @@ Dienia, Aselien, and A-1 runs back to the castle.
 
 ### Plot:
 
+Dienia, Aselien, and A-1 runs back to the castle.
+
+**Where:** Northern Percantia Continent
+
+**When:** 18:10, 2 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- A-1
+
+## Scene 17
+
+### Plot:
+
 After the trio reached the Royal Castle, Dienia and Aselien immediately went to find Queen Minexia, who by chance, was just after the entrance of the castle. She asks them why they were sweating so much, to which they responded by recounting everything that happened so far. The Queen immediately asks A-1 to follow her, while telling Dienia and Aselien to call Minalia and Yumeiron for an emergency meeting.
 
-**Where:** Southern Gelis Continent
+**Where:** Mystosa Royal Castle
 
 **When:** 20:30, 2 March 5000 BC
 
@@ -1626,3 +1626,214 @@ After the trio reached the Royal Castle, Dienia and Aselien immediately went to 
 - Aselien Lumia Myssilia
 - Minexia Sclaire Mystenia
 - A-1
+
+## Scene 18
+
+### Plot:
+
+Dienia and Aselien runs towards the Myssilia Clan Dormitory.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 20:35, 2 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+
+## Scene 19
+
+### Plot:
+
+After reaching the dormitory, the two found their parents, and urged them to come to Queen Minexia's room for further discussion.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 20:40, 2 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Minalia Hinei Myssilia
+- Yumeiron Osirin Mystenia
+
+## Scene 20
+
+### Plot:
+
+The four walked towards Queen Minexia's room, with Minalia and Yumeiron talking to each other on what issue would need both of them to be present.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 20:45, 2 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Minalia Hinei Myssilia
+- Yumeiron Osirin Mystenia
+
+## Scene 21
+
+### Plot:
+
+After reaching the entrance to Queen Minexia's room, they were greeted by the sight of the entire primary Mystenia Clan Members talking about something, and A-1 drawing plans on a gigantic paper. Queen Minexia welcomed them into the room, and explained the reason they were all here.
+
+Queen Minexia states that the presence of heavily armed Aeon Flux soldiers at the same location and time as a suspicious trail of Alienis, coupled with the ongoing invasion of Aeon Flux and the presence of the Tenebrae entity in Mystosa has forced her to brainstorm a plan to save Mystosa's future.
+
+Out of all the plans Queen Minexia proposed, only one stood out from the others as one that actually has potential to save Mystosa's future, which is to build underground cities to house The Eight Clans and other important figures focusing on technological research, along with a portion of the population to prevent inbreeding in the worst case that the surface cities are wiped out. Naturally, this plan will also involve Mystosa's descendants due to the foreseeable length of the plan.
+
+As Queen Minexia wonders if their descendants are up to the task, A-1 steps in and makes sure that they are up to the task, through any means necessary. Nonchalantly, the Queen asks if A-1 is an Aetereon, to which A-1 confirms.
+
+After everyone agrees on the plan, suddenly, a Royal Guard came upstairs into the entrance of the room. He reported that an unknown figure is approaching the northern capital gates, and Aeon Flux troops are invading from the western and eastern entrances, and no one dares to go near the entity due to their opressive aura. Minexia immediately gave everyone orders; Isenina and Peridenia went to safeguard the castle courtyards just in case, Minalia and Yumeiron went to prepare the primary troops, Pavionus went to prepare his prototype spaceship, and A-1 was sent out to deal with the unknown entity. Dienia and Aselien followed A-1 to guard the northern entrance while A-1 battles the person.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 20:50, 2 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Minalia Hinei Myssilia
+- Yumeiron Osirin Mystenia
+- Minexia Sclaire Mystenia
+- Pavionus an Ministria
+- Isenina Panonine Mystenia
+- Peridenia Astraes Mystenia
+- A-1
+
+## Scene 22
+
+### Plot:
+
+Dienia, Aselien and A-1 runs towards the northern entrance of the Capital.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 22:00, 2 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- A-1
+
+## Scene 23
+
+### Plot:
+
+After arriving near the northern entrance, Dienia and Aselien stayed behind, while A-1 moved forward.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 22:00, 2 March 5000 BC
+
+### Who:
+
+- A-1
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+
+## Scene 24
+
+### Plot:
+
+Just as the entity was about to get close to the gates, A-1 rushed in and stopped the entity from moving further. The entity started taunting A-1 in an attempt to lower his guard, but A-1 was steadfast. He prepares for battle, asking the soldiers nearby to stay far away.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 22:05, 2 March 5000 BC
+
+### Who:
+
+- A-1
+- Unknown entity
+
+## Scene 25
+
+### Plot:
+
+A horrific battle ensues, with A-1 employing his Ignis Sword Techniques, while the entity materialized spears made from Tenebrae. Midway through the battle, the entity indirectly reveals that he is an Aetereon.
+
+The battle continues, until the unknown Aetereon attempted to say A-1's true name. A-1 responded by kicking his face before he could say it, and decided that enough is enough.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 22:10, 2 March 5000 BC
+
+### Who:
+
+- A-1
+- Unknown Aetereon
+
+## Scene 26
+
+### Plot:
+
+After the unknown Aetereon was killed, A-1 returns to the castle.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 22:45, 2 March 5000 BC
+
+### Who:
+
+- A-1
+
+## Scene 27
+
+### Plot:
+
+A-1 fetches Dienia and Aselien en route towards the castle.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 22:46, 2 March 5000 BC
+
+### Who:
+
+- A-1
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+
+## Scene 28
+
+### Plot:
+
+The trio finally reached the castle, where they met Isenina and Peridenia. A-1 asks where the Queen is, and the two promptly answered that the Queen was continuing the discussion of plans with Sir Pavionus in her room. A-1 immediately went towards the room to report something, to which Dienia and Aselien were confused about. Seeing as there's no other task due to Minalia and Yumeiron taking care of the western and eastern sides, the four followed A-1.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 23:00, 2 March 5000 BC
+
+### Who:
+
+- A-1
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Isenina Panonine Mystenia
+- Peridenia Astraes Mystenia
+
+## Scene 29
+
+### Plot:
+
+After everyone reached the room, the Queen let all of them into the room. A-1 immediately says that he has something important to inform; The entity he was battling with almost spilled his real name during the battle, and after seeing how far even an Aetereon can be twisted into following Aeon Flux's orders blindly, A-1 has decided that he was going to reveal his true name. His true name is Dyminexus Arteixin Zemistrion.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 23:00, 2 March 5000 BC
+
+### Who:
+
+- Dyminexus Arteixin Zemistrion (A-1)
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Isenina Panonine Mystenia
+- Peridenia Astraes Mystenia
+- Minexia Sclaire Mystenia
+- Pavionus an Ministria
