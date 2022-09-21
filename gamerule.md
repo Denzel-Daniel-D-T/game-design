@@ -1,4 +1,4 @@
-# GAMERULE
+# Gamerules
 
 ## Stats
 
@@ -49,7 +49,7 @@
 
 - Player need to be around certain place or object (blacksmith, anvil, workbench) and press “f” to do crafting/forging to open up the menu, and pick option craft/forge
 - Crafting allow player to craft certain item that are usable like potions, map, etc. The material can be obtain from monster’s drops, breakable objects, or buy it from the store
-- Forging allow player to forge weapon for the character to use. The material can be obtain from monster’s drops, breakable objects, or buy it from the store
+- Forging allow player to forge weapon for the character to use. The material can be obtain from monster’s drops, breakable objects, or bought from the store
 
 ## Upgrade Equipment
 
@@ -58,12 +58,14 @@
 
 ## Skill
 
-- Player can press or hold “q” or “e” to activate skill
-- Each character have their own skill that have different effect and cooldown
-- When switching character cooldown doesn’t stop
-- AI can also use skill and can trigger the skill cooldown
+- Player can press or hold “e” to activate Elemental Skill
+- Player can press or hold “q” to activate Elemental Ultimate
+- Using Elemental Skills and having them hit enemies charge up the Elemental Ultimate
+- Each character have their own skill and ultimates that have different effect and cooldown
+- When switching characters, their skill and ultimate cooldown don't stop
+- AI can also use skills and can trigger the skill cooldown. However, they can't trigger ultimates, to allow players to have more control over the battle.
 - Player need to press “p” to open up the character menu. In this menu, player can pick the skill option to look at the skill effect and stats, player can also upgrade the skill with money and material that can be acquired from monster’s drops, breakable objects, or bought from the store
-- Different skills have different max level. the max level can be varies from 1-5
+- The maximum level of skills and ultimates are level 10. The material cost increases with the level, with higher levels being relatively more expensive than lower levels.
 
 ## Fight enemies
 
@@ -82,3 +84,8 @@
 - Element Type is divided into two types: Primal and Composite
   - Primal elements cannot be created from any reaction
   - Composite elements can be created from reacting two different elements.
+
+# Scoring
+
+- Map Exploration Progress: each major area has one, to track how many treasure chests are found and how many ancient mechanisms or puzzles are solved.
+- Currencies: You can collect Money and use them for crafting, forging, upgrading, and buying items from shops.
