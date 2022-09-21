@@ -1054,7 +1054,7 @@ After reaching the southern gates, Dienia found Aselien waiting near the entranc
 
 Dienia and Aselien headed off to Southern Mystosa again to search for Dexis Trionis.
 
-**Where:** Mystosa Royal Castle
+**Where:** Mystosa Royal Castle, Arcantia Canal, Southern Mystosa
 
 **When:** 14:20, 1 March 5000 BC
 
@@ -1068,9 +1068,11 @@ Dienia and Aselien headed off to Southern Mystosa again to search for Dexis Trio
 
 ### Plot:
 
-After reaching Southern Mystosa, Dienia and Aselien talked for a little bit when suddenly a spear landed nearby. Dexis appeared shortly after and asked them of their purpose. At first, Dexis was unfazed by the sight of his troops' sigil, but when Dienia showed him a magic signature of the sigil from the battle earlier, Dexis promptly said that he will investigate the situation. He proposed the two to meet him in the Arcantia Canal once he finishes his investigation.
+After reaching Southern Mystosa, Dienia and Aselien talked for a little bit when suddenly a spear landed nearby. Dexis appeared shortly after and asked them of their purpose. At first, Dexis was unfazed by the sight of his troops' sigil, but when Dienia showed him a magic signature of the sigil from the battle earlier, Dexis promptly said that he will investigate the situation. He proposed the two to meet him in the Arcantia Canal tomorrow morning once he finishes his investigation.
 
-**Where:** Mystosa Royal Castle
+After Dexis explained everything, he urges the two to leave immediately, before his comrades sees him conversing with foreign parties.
+
+**Where:** Southern Mystosa
 
 **When:** 17:20, 1 March 5000 BC
 
@@ -1080,14 +1082,13 @@ After reaching Southern Mystosa, Dienia and Aselien talked for a little bit when
 - Aselien Lumia Myssilia
 - Dexis Trionis
 
-
-## Scene 21
+## Scene 22
 
 ### Plot:
 
+After leaving the scene, Dienia and Aselien immediately journeyed back to the Royal Castle.
 
-
-**Where:** Mystosa Royal Castle
+**Where:** Southern Mystosa, Arcantia Canal, Mystosa Royal Castle
 
 **When:** 17:25, 1 March 5000 BC
 
@@ -1095,3 +1096,208 @@ After reaching Southern Mystosa, Dienia and Aselien talked for a little bit when
 
 - Dienia Elei Myssilia
 - Aselien Lumia Myssilia
+
+## Scene 23
+
+### Plot:
+
+After reaching the Royal Castle, Aselien went back to the Myssilia Clan's Dormitory, while Dienia prepared to go to the Throne Room.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 20:25, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+
+## Scene 24
+
+### Plot:
+
+Dienia proceeds to walk towards the Throne Room to report the situation to the Queen.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 20:30, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+
+## Scene 25
+
+### Plot:
+
+Dienia reaches the Throne Room and reported the success of the task to the Queen. The Queen thanked her and immediately ordered her Royal Guards to inform the Minor Arcana Mages stationed in the southern gates to start monitoring the area.
+
+After that, the Queen advised Dienia to rest after yet another long day.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 20:35, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Minexia Sclaire Mystenia
+
+## Scene 26
+
+### Plot:
+
+After leaving the Throne Room, Dienia returns to the Myssilia Clan's Dormitory to rest for the day.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 20:40, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+
+# Intermission
+
+Dienia goes to rest for the day. The next day...
+
+## Scene 27
+
+### Plot:
+
+Dienia gets woken up by her mother, Minalia. She told her that the scouts at the southern gates have reported that Dexis was sighted a few kilometers from the location of the dead Aeon Flux soldiers. She thinks that as the ones spearheading the operation, Dienia and Aselien should watch the scene happen in realtime.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 07:30, 2 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Minalia Hinei Myssilia
+
+## Scene 28
+
+### Plot:
+
+Dienia promptly goes to Aselien's Room to wake her up for the same reason.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 07:32, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+
+## Scene 29
+
+### Plot:
+
+Dienia and Aselien rushes towards the southern gates of the capital.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 07:45, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+
+## Scene 30
+
+### Plot:
+
+As soon as Dienia and Aselien reached a vantage point of the southern gates, they immediately see Dexis approach the corpses of the soldiers. Dienia noticed that Dexis immediately shook his head when he got close to recognize the soldiers' uniforms. Dienia and Aselien knew they succeded when they saw Dexis pick up a sigil from one of the bodies and promptly threw it to the ground in frustration. After shaking his head one more time, Dexis left the scene towards the south.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 08:00, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+
+## Scene 31
+
+### Plot:
+
+After watching the scene, Dienia and Aselien walked back to their Dormitory to have breakfast and prepare their gears for their next meeting with Dexis Trionis.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 08:15, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+
+# Intermission
+
+Dienia and Aselien have breakfast and prepared their battle gear to meet up with Dexis.
+
+## Scene 32
+
+### Plot:
+
+After preparing their gears, Dienia and Aselien went towards the Arcantia Canal.
+
+**Where:** Mystosa Royal Castle, Arcantia Canal
+
+**When:** 09:15, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+
+## Scene 33
+
+### Plot:
+
+Dienia and Aselien reached the Arcantia Canal, and looked around for Dexis' whereabouts. Seeing that he was nowhere nearby, Aselien scouts the nearby area, while Dienia looks for signs of flying spears to anticipate his appearance.
+
+**Where:** Mystosa Royal Castle, Arcantia Canal
+
+**When:** 10:45, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+
+## Scene 34
+
+### Plot:
+
+Suddenly, Aselien returned hastily with many Aeon Flux Soldiers chasing her on the way. Dienia helps Aselien take out the soldiers.
+
+**Where:** Mystosa Royal Castle, Arcantia Canal
+
+**When:** 11:00, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Aeon Flux Soldiers
+
+## Scene 35
+
+### Plot:
+
+After Dienia and Aselien took out the soldiers, suddenly, a massive cannon projectile was on its course towards their location. Luckily, before it could do any damage, Sir Pavionus shot it down midair with his laser cannon. He then immediately snipes the cannoneer with his laser sniper rifle. He then urges the two to employ surprise attacks towards the remaining soldiers guarding the now dead cannoneer.
+
+**Where:** Mystosa Royal Castle, Arcantia Canal
+
+**When:** 11:15, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Pavionus an Ministria
