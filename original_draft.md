@@ -91,20 +91,3 @@ Breakable objects are scattered throughout the planet. Each breakable object may
 Upgrading equipment requires uncommon materials dropped by enemies and breaking objects with certain elemental combinations. Upgrading equipment grants them new abilities and effects.
 
 Upgrading the character’s skills and talents require rare materials dropped by tough enemies found throughout the story, and very rare materials only dropped by minerals originating from the hardest to reach areas of the planet.
-
-### Gamerules:
-- Stat System (Level, ATK, HP, DEF, ATK_SPD, MOVE_SPD, Skills, Attack/Skill Cooldown, etc.)
-- Multiple characters at once, only 1 in control, can change mid battle
-- Interact with NPCs (Non Player Characters)
-- Pick up items
-- Enter/Exit building
-- Break objects
-- Crafting/Forging
-- Upgrade Equipment
-- Upgrade Skills
-- Fight enemies
-- Elemental combat system
-
-### Scoring:
-- Exploration Progress
-- In-game Currency
