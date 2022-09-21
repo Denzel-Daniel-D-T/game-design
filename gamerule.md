@@ -11,11 +11,12 @@
 
 ## Character controls and behaviour
 
+- Player can move the active character with the standard WASD control, "Shift" to sprint, and "Space" to jump
 - Player can switch between characters by pressing “1”, “2”, “3”, and “4”
 - Player control 1 character at a time, the rest of the characters controlled by AI
 - Player can switch between characters they want to control, the moment they change character the old character will be controlled by AI.
-- Changing character have 5 second cooldown
-- The available characters depends on the story progress. With the exception of some story quests, Dienia is available at all times.
+- Changing characters have a 1 second cooldown
+- The available characters depends on the story progress. With the exception of some story quests, **Dienia** is available at all times.
   - After completing the final story quest, all characters are available to select.
 
 ## Interact with NPCs (Non Player Characters)
