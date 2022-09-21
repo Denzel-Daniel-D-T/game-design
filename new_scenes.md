@@ -1006,7 +1006,9 @@ As Dienia was about to ask about information regarding the documents, however, Q
 
 ### Plot:
 
-After arriving in Queen Minexia's room, Dienia started talking about the Aetereon as recorded in Myssilia Clan's documents, after which she asked the Queen if the Mystenia Clan also interacted with Aetereons in the past.
+After arriving in Queen Minexia's room, Dienia started talking about the Aetereon as recorded in Myssilia Clan's documents, after which she asked the Queen if the Mystenia Clan also interacted with Aetereons in the past. The Queen responded that it was most likely the case, so she started rummaging through the old documents lying inside the many drawers of the room.
+
+Not only did the Queen found that the Mystenia Clan did indeed interact with Aetereons, she found documents containing other important information about them.
 
 **Where:** Mystosa Royal Castle
 
@@ -1016,3 +1018,80 @@ After arriving in Queen Minexia's room, Dienia started talking about the Aetereo
 
 - Dienia Elei Myssilia
 - Minexia Sclaire Mystenia
+
+## Scene 18
+
+### Plot:
+
+After leaving the Queen's room, Dienia headed for the southern gates of the capital.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 14:00, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+
+## Scene 19
+
+### Plot:
+
+After reaching the southern gates, Dienia found Aselien waiting near the entrance. Aselien asked a few questions before both of them prepared to head off for Southern Mystosa again.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 14:15, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+
+## Scene 20
+
+### Plot:
+
+Dienia and Aselien headed off to Southern Mystosa again to search for Dexis Trionis.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 14:20, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+
+
+## Scene 21
+
+### Plot:
+
+After reaching Southern Mystosa, Dienia and Aselien talked for a little bit when suddenly a spear landed nearby. Dexis appeared shortly after and asked them of their purpose. At first, Dexis was unfazed by the sight of his troops' sigil, but when Dienia showed him a magic signature of the sigil from the battle earlier, Dexis promptly said that he will investigate the situation. He proposed the two to meet him in the Arcantia Canal once he finishes his investigation.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 17:20, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Dexis Trionis
+
+
+## Scene 21
+
+### Plot:
+
+
+
+**Where:** Mystosa Royal Castle
+
+**When:** 17:25, 1 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
