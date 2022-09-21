@@ -1080,7 +1080,7 @@ After Dexis explained everything, he urges the two to leave immediately, before 
 
 - Dienia Elei Myssilia
 - Aselien Lumia Myssilia
-- Dexis Trionis
+- "Dexis Trionis"
 
 ## Scene 22
 
@@ -1184,7 +1184,7 @@ Dienia promptly goes to Aselien's Room to wake her up for the same reason.
 
 **Where:** Mystosa Royal Castle
 
-**When:** 07:32, 1 March 5000 BC
+**When:** 07:32, 2 March 5000 BC
 
 ### Who:
 
@@ -1199,7 +1199,7 @@ Dienia and Aselien rushes towards the southern gates of the capital.
 
 **Where:** Mystosa Royal Castle
 
-**When:** 07:45, 1 March 5000 BC
+**When:** 07:45, 2 March 5000 BC
 
 ### Who:
 
@@ -1214,7 +1214,7 @@ As soon as Dienia and Aselien reached a vantage point of the southern gates, the
 
 **Where:** Mystosa Royal Castle
 
-**When:** 08:00, 1 March 5000 BC
+**When:** 08:00, 2 March 5000 BC
 
 ### Who:
 
@@ -1229,7 +1229,7 @@ After watching the scene, Dienia and Aselien walked back to their Dormitory to h
 
 **Where:** Mystosa Royal Castle
 
-**When:** 08:15, 1 March 5000 BC
+**When:** 08:15, 2 March 5000 BC
 
 ### Who:
 
@@ -1248,7 +1248,7 @@ After preparing their gears, Dienia and Aselien went towards the Arcantia Canal.
 
 **Where:** Mystosa Royal Castle, Arcantia Canal
 
-**When:** 09:15, 1 March 5000 BC
+**When:** 09:15, 2 March 5000 BC
 
 ### Who:
 
@@ -1261,9 +1261,9 @@ After preparing their gears, Dienia and Aselien went towards the Arcantia Canal.
 
 Dienia and Aselien reached the Arcantia Canal, and looked around for Dexis' whereabouts. Seeing that he was nowhere nearby, Aselien scouts the nearby area, while Dienia looks for signs of flying spears to anticipate his appearance.
 
-**Where:** Mystosa Royal Castle, Arcantia Canal
+**Where:** Arcantia Canal
 
-**When:** 10:45, 1 March 5000 BC
+**When:** 10:45, 2 March 5000 BC
 
 ### Who:
 
@@ -1276,9 +1276,9 @@ Dienia and Aselien reached the Arcantia Canal, and looked around for Dexis' wher
 
 Suddenly, Aselien returned hastily with many Aeon Flux Soldiers chasing her on the way. Dienia helps Aselien take out the soldiers.
 
-**Where:** Mystosa Royal Castle, Arcantia Canal
+**Where:** Arcantia Canal
 
-**When:** 11:00, 1 March 5000 BC
+**When:** 11:00, 2 March 5000 BC
 
 ### Who:
 
@@ -1292,12 +1292,337 @@ Suddenly, Aselien returned hastily with many Aeon Flux Soldiers chasing her on t
 
 After Dienia and Aselien took out the soldiers, suddenly, a massive cannon projectile was on its course towards their location. Luckily, before it could do any damage, Sir Pavionus shot it down midair with his laser cannon. He then immediately snipes the cannoneer with his laser sniper rifle. He then urges the two to employ surprise attacks towards the remaining soldiers guarding the now dead cannoneer.
 
-**Where:** Mystosa Royal Castle, Arcantia Canal
+**Where:** Arcantia Canal
 
-**When:** 11:15, 1 March 5000 BC
+**When:** 11:15, 2 March 5000 BC
 
 ### Who:
 
 - Dienia Elei Myssilia
 - Aselien Lumia Myssilia
 - Pavionus an Ministria
+- Aeon Flux Soldiers
+
+## Scene 36
+
+### Plot:
+
+After dealing with soldiers yet again, Sir Pavionus told the two to be careful in the meeting, and proceeds to return to his outpost in the west. Dienia and Aselien says their thanks and regards.
+
+**Where:** Arcantia Canal
+
+**When:** 11:25, 2 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Pavionus an Ministria
+
+## Scene 37
+
+### Plot:
+
+Dienia and Aselien walks back to the previous area before they were attacked by the Aeon Flux soldiers.
+
+**Where:** Arcantia Canal
+
+**When:** 11:30, 2 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+
+## Scene 38
+
+### Plot:
+
+After reaching the area, a spear landed in front of them. Dienia immediately calls out to Dexis, and he promptly appears before them. Dexis explained that the allegations were true, and his troops attacked Mystosa's Capital without his permission. To Dexis, this was an act that was against his current ideology of contracts and rules. Because of this, he will leave Aeon Flux's organization after finishing his final tasks.
+
+Dienia and Aselien asked Dexis about his species being an Aetereon, and Dexis confirmed their suspicions. He also revealed, after a few more questions, that "Dexis Trionis" is not his real name. However, he cannot reveal it just yet due to his ongoing contract with Aeon Flux. Eventually, Dienia asked if Dexis wants to explore Mystosa and see if it fits his ideal specifications for a home planet. Dexis agrees and agrees to meet up in the Arcantia Canal again in a week.
+
+After the talk was over, Dexis promptly leaves to finish his final task, meanwhile Dienia and Aselien prepares to return to the castle.
+
+**Where:** Arcantia Canal
+
+**When:** 11:45, 2 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- "Dexis Trionis"
+
+# Chapter 4
+
+## Scene 1
+
+### Plot:
+
+Dienia and Aselien walks back towards the Royal Castle.
+
+**Where:** Arcantia Canal, Mystosa Royal Castle
+
+**When:** 12:15, 2 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+
+## Scene 2
+
+### Plot:
+
+After reaching the Royal Castle, Aselien went to the dining room to have lunch. While Dienia was thinking about her next move, Isenina arrived at her location and called her for an emergency meeting regarding something happening in Northern Mystosa, and urges her to come to the Throne Room to discuss further.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 13:45, 2 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Isenina Panonine Mystenia
+
+## Scene 3
+
+### Plot:
+
+Dienia and Isenina walks towards the Throne Room to discuss the situation further without prying ears eavesdropping them.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 13:50, 2 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Isenina Panonine Mystenia
+
+## Scene 4
+
+### Plot:
+
+After reaching the Throne Room, Isenina briefed to Dienia that Sir Pavionus' prototype satellite detected a highly suspicious amount of the element Alienis was detected near the Gelum Core in the heart of the Gelis Continent. Due to the Myssilia Clan's affinity with Gelum and because Minalia and Yumeiron were still busy dealing with various tasks, Dienia was left as the next best candidate in investigating the issue.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 14:00, 2 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Isenina Panonine Mystenia
+
+## Scene 5
+
+### Plot:
+
+After the briefing was finished, Dienia went towards the dining room to look for Aselien.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 14:15, 2 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+
+## Scene 6
+
+### Plot:
+
+Dienia found Aselien, and the two planned their route and escape routes in case things went wrong.
+
+**Where:** Mystosa Royal Castle
+
+**When:** 14:20, 2 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+
+## Scene 7
+
+### Plot:
+
+Dienia and Aselien journeyed towards Northern Mystosa to assess the situation.
+
+**Where:** Mystosa Royal Castle, Southern Gelis Continent
+
+**When:** 14:25, 2 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+
+## Scene 8
+
+### Plot:
+
+Dienia and Aselien arrived at the Gelis Continent. Just as they arrived, Dienia already noticed a trail of Alienis going further north. Just as she was thinking on their next course of action, some Aeon Flux Soldiers appeared.
+
+**Where:** Southern Gelis Continent
+
+**When:** 16:45, 2 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Aeon Flux Soldiers
+
+## Scene 9
+
+### Plot:
+
+Dienia and Aselien fights off the Aeon Flux Soldiers.
+
+**Where:** Southern Gelis Continent
+
+**When:** 16:55, 2 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Aeon Flux Soldiers
+
+## Scene 10
+
+### Plot:
+
+After fighting off the soldiers, Dienia felt that something wasn't right, and proceeded to check the area. All of a sudden, a heavily armored squad of Aeon Flux Soldiers arrived, and they started shooting laser machineguns towards the duo, to which Aselien immediately responded by casting Ordo Plates to deflect the lasers, all while also dragging Dienia out of the scene and running away.
+
+**Where:** Southern Gelis Continent
+
+**When:** 17:15, 2 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Aeon Flux Soldiers
+
+## Scene 11
+
+### Plot:
+
+Dienia and Aselien runs towards the west from the assailing soldiers.
+
+**Where:** Southern Gelis Continent
+
+**When:** 17:30, 2 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Aeon Flux Soldiers
+
+## Scene 12
+
+### Plot:
+
+After running for a while, Dienia and Aselien accidentally found Elysia, Celia, and Myrica again. Elysia immediately helps out by swiftly disarming the laser machinegun, then eliminates the remaining soldiers.
+
+**Where:** Southern Gelis Continent
+
+**When:** 17:40, 2 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Elysia Rhivenyere Kazimir
+- Celia Vasiris Kazimir
+- Myrica Animus Crocielle
+- Aeon Flux Soldiers
+
+## Scene 13
+
+### Plot:
+
+After the soldiers were eliminated, Dienia and Aselien said their thanks. However, their already short reunion time was cut short by the appearance of a dark entity appearing out of a portal. The entity had Tenebrae pouring out of every opening in their body. Seeing as they were still out of the entity's vision, Dienia and Aselien immediately ran away again.
+
+**Where:** Southern Gelis Continent
+
+**When:** 17:45, 2 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Elysia Rhivenyere Kazimir
+- Celia Vasiris Kazimir
+- Myrica Animus Crocielle
+- Unknown Tenebrae Entity
+
+## Scene 14
+
+### Plot:
+
+After escaping the area, Dienia and Aselien immediately ran back towards the castle to report the situation.
+
+**Where:** Southern Gelis Continent
+
+**When:** 17:50, 2 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+
+## Scene 14
+
+### Plot:
+
+However, along the way, they both ran into A-1. Seeing their frightened expression and heavy breathing, A-1 asked the two on what just happened. After Dienia and Aselien explained everything, A-1 immediately hurries back to the castle with them, explaining that he has seen the mysterious Tenebrae entity before, and the Alienis traces issue might be bigger than expected.
+
+**Where:** Southern Gelis Continent
+
+**When:** 18:00, 2 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- A-1
+
+## Scene 15
+
+### Plot:
+
+Dienia, Aselien, and A-1 runs back to the castle.
+
+**Where:** Southern Gelis Continent
+
+**When:** 18:10, 2 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- A-1
+
+## Scene 16
+
+### Plot:
+
+After the trio reached the Royal Castle, Dienia and Aselien immediately went to find Queen Minexia, who by chance, was just after the entrance of the castle. She asks them why they were sweating so much, to which they responded by recounting everything that happened so far. The Queen immediately asks A-1 to follow her, while telling Dienia and Aselien to call Minalia and Yumeiron for an emergency meeting.
+
+**Where:** Southern Gelis Continent
+
+**When:** 20:30, 2 March 5000 BC
+
+### Who:
+
+- Dienia Elei Myssilia
+- Aselien Lumia Myssilia
+- Minexia Sclaire Mystenia
+- A-1
