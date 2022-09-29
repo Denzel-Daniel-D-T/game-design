@@ -18,4 +18,4 @@ C14200160 - Denzel Daniel D'Assante Tangsaputra
 
 `original_draft.md` Original draft of game
 
-`GDD : https://docs.google.com/document/d/1iEzFLjNFA14fAPO3pftxP3QOCK8jlkyz1ElKFL3oyoo/edit?usp=sharing
+`GDD` https://docs.google.com/document/d/1iEzFLjNFA14fAPO3pftxP3QOCK8jlkyz1ElKFL3oyoo/edit?usp=sharing
