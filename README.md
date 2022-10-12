@@ -12,7 +12,7 @@ C14200160 - Denzel Daniel D'Assante Tangsaputra
 
 ## Table of Contents:
 
-`new_scenes.md` Scenes
+`new_new_scene.md` Scenes
 
 `gamerule.md` Gamerules & Scoring
 
