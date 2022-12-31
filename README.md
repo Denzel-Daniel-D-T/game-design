@@ -1,6 +1,6 @@
-## Project Files:
+## Project Files + Packaged Game:
 
-https://github.com/Denzel-Daniel-D-T/GameProject_PGDG
+https://drive.google.com/drive/folders/1fZ0ibgUcd_ux7EiG3QmdeZORZRmMqZXE
 
 ## Members:
 
