@@ -2,7 +2,7 @@
 
 `Final Report` https://docs.google.com/document/d/1CpzfLvC7WBKKE04UZtfcg6_Y05Zlj6PQMOMX9zpULkg/edit
 
-`Project Files + Packaged game` https://drive.google.com/drive/folders/1fZ0ibgUcd_ux7EiG3QmdeZORZRmMqZXE
+`Project Files, Packaged game & Video Teaser` https://drive.google.com/drive/folders/1fZ0ibgUcd_ux7EiG3QmdeZORZRmMqZXE
 
 ## Members:
 
